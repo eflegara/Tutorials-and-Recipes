@@ -1,1 +1,1 @@
-# Tutorials-and-Recipes
+# Tutorials and Recipes
